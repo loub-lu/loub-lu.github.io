@@ -1,29 +1,8 @@
-# [YAMT - Yet Another Minimal Theme](https://yamt.netlify.app/)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/249c3da6-7b23-4b57-915d-71934329e306/deploy-status)](https://yamt.netlify.app/)
-![](https://badgen.net/rubygems/dt/jekyll-yamt)
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/PandaSekh/Jekyll-YAMT/issues)
-![GitHub forks](https://img.shields.io/github/forks/PandaSekh/Jekyll-YAMT?label=Fork%20it%21&style=social)
-## [Live Demo](https://yamt.netlify.app/)
+# Lou's Website
 
-![Homepage](https://raw.githubusercontent.com/PandaSekh/Jekyll-YAMT/master/assets/img/screenshots/Screenshot.png?raw=true)
 
 YAMT is a minimal [Jekyll](http://jekyllrb.com) theme focused on simplicity and ease-of-use. It has great modularity, allowing you to easily decide what you actually want on your website.
 
-## Contents
-
-- [Features](#features)
-- [Screenshots](#screenshots)
-- [Installation](#installation)
-- [Customize](#options)
-  - [Basics](#Basics)
-  - [Typography](#Typography)
-  - [Header](#header)
-  - [Home](#home)
-  - [Post](#post)
-  - [Contact Form](#contact-form)
-- [Development](#development)
-- [Credits](#credits)
-- [License](#license)
 
 ## Features
 
