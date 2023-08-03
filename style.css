@@ -16,3 +16,8 @@ body {
 #title {
     background-color: var(--teal)
 }
+
+h1.hidden {
+	border-style: hidden;
+	border-width: 25px;
+}
