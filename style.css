@@ -15,9 +15,11 @@ body {
 
 #title {
     background-color: var(--teal)
+	border-style: dotted;
 }
 
 h1.hidden {
 	border-style: dotted;
 	border-width: 25px;
+	border-color: green;
 }
