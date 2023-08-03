@@ -23,3 +23,9 @@ h1.hidden {
 	border-width: 25px;
 	border-color: green;
 }
+
+p.solid {
+	border-style: solid;
+	border-width: 5px;
+	border-color: purple;
+}
