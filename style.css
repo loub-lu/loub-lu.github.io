@@ -8,6 +8,11 @@
 	--deep-plum: #281f51;
 }
 
+body {
+	background-color: var(--gray);
+	font-family: sans-serif;
+}
+
 #title {
     background-color: var(--teal)
 }
