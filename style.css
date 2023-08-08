@@ -8,7 +8,7 @@ body {
 }
 
 #title {
-    background-color: var(--teal)
+	text-align: center;
 }
 
 h1.hidden {
