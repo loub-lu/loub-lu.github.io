@@ -11,6 +11,11 @@ body {
 	text-align: center;
 }
 
+#b-image {
+  	background-image: url(banner.png) 
+
+}
+
 h1.hidden {
 	border-style: dotted;
 	border-width: 25px;
