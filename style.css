@@ -7,6 +7,14 @@ body {
 	font-family:"Times New Roman", Times, serif;
 }
 
+div {
+  background-color: lightgrey;
+  width: 300px;
+  border: 15px lightcoral;
+  padding: 50px;
+  margin: 20px;
+}
+
 #title {
 	text-align: center;
 }
@@ -14,6 +22,12 @@ body {
 #b-image {
   	background-image: url(banner.png) 
 
+}
+
+#about {
+	text-indent: 50px;
+  	text-align: justify;
+  	letter-spacing: 3px;
 }
 
 h1.hidden {
