@@ -8,19 +8,19 @@ body {
 	background-image: url("sidebanner.png");
 	background-repeat: repeat-y;
 	background-position: right top;
-	margin-right: 500px;
+	margin-right: 200px;
 }
 
 
 #title {
-	text-align: center;
+	text-align: right;
 }
 
 
 #about {
 	text-indent: 50px;
   	text-align: justify;
-  	letter-spacing: 3px;
+  	letter-spacing: 1px;
 }
 
 h1.hidden {
